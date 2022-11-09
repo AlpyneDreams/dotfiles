@@ -1,0 +1,4 @@
+# Force firefox to use wayland backend
+MOZ_ENABLE_WAYLAND=1
+BEMENU_SCALE=2
+QT_QPA_PLATFORMTHEME=gnome
