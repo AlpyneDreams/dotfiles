@@ -4,7 +4,7 @@
 mako &
 waybar &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-swaybg -i ~/Wallpapers/wallpaper.png >/dev/null 2>&1 &
+swaybg -i ~/Pictures/Wallpapers/wallpaper.png >/dev/null 2>&1 &
 exec swayidle -w \
     timeout 300 '~/.config/labwc/bin/lock_screen.sh' \
     timeout 320 'systemctl suspend ' \

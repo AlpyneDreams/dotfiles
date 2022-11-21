@@ -1,7 +1,7 @@
 #!/bin/bash
 
 swaylock \
-    --image ~/Wallpapers/lockscreen.png \
+    --image ~/Pictures/Wallpapers/lockscreen.png \
     --indicator-radius 128 \
     --indicator-thickness 24 \
     --inside-color 91bebb \
