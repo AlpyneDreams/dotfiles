@@ -1,10 +1,13 @@
 Packages needed:
-labwc
-bemenu
-waybar 
-swaybg
-swayidle
-swaylock
-ttc-iosevka
-otf-font-awesome
+- labwc
+- bemenu
+- waybar 
+- swaybg
+- swayidle
+- swaylock
+- ttc-iosevka
+- otf-font-awesome
 
+Other good packages:
+- lunarvim-git
+  - requires nerd fonts (e.g. ttf-sourcecodepro-nerd, ttf-iosevka-nerd, etc.)
